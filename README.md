@@ -52,9 +52,9 @@ My attention to detail and ability to be methodical will help me to create beaut
 
 ## <a name="projects">Projects</a>
 
-| Project | Description | Technologies | Testing | Links |
+| Project | Description | Technologies | Testing | Links |  
 |-----|-----|-----|-----|
-| Meal Planner | Create recipes, and add them to a meal planner | Rails | Rspec, Capybara, Shoulda | [Heroku](https://meal-planner-ma.herokuapp.com/) |
+| Meal Planner | Create recipes, and add them to a meal planner | Rails | Rspec, Capybara, Shoulda | [Heroku](https://meal-planner-ma.herokuapp.com/) |  
 | Bowling Challenge | A bowling score tracker | JS | Sinatra | [Github](https://github.com/nomi811/bowling-challenge) |
 
 ## <a name="reviews">Reviews</a>
@@ -90,6 +90,7 @@ Studied International business
 
 #### Other qualifications
 Photoshop for photography and retouching projects
+
 Adobe Illustrator for pattern design projects
 
 ## <a name="experience">Experience</a>
@@ -97,16 +98,16 @@ Adobe Illustrator for pattern design projects
 **Nomi Vos Photography** (April 2012 to June 2016)    
 *Owner*  
 **Cottonwood Creek Quilting** (March 2001 to June 2016)   
-*Owner*
-**Homeschool Teacher** (August 1996 to present)
-*Teacher to my own children*
-**Tri-State Nursing** (October 2014 to March 2015)    
-*Certified Nurse Assistant*
-**Younkers** (October 2013 to February 2014)
-*Sales Associate*
-**Central Baptist Church** (August 2008 to May 2009)
-*Administrative Assistant*
-**Gateway 2000** (January 1992 to November 1993)
+*Owner*  
+**Homeschool Teacher** (August 1996 to present)  
+*Teacher to my own children*  
+**Tri-State Nursing** (October 2014 to March 2015)  
+*Certified Nurse Assistant*  
+**Younkers** (October 2013 to February 2014)  
+*Sales Associate*  
+**Central Baptist Church** (August 2008 to May 2009)  
+*Administrative Assistant*  
+**Gateway 2000** (January 1992 to November 1993)  
 *Computer Technical Service Representative*
 <br />
 
