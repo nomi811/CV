@@ -31,20 +31,20 @@ I am comfortable working with other people and on teams.  During my time at Make
 
 I also have experience working with people in variations of customer service roles.  I helped elderly people with their daily living needs as a Certified Nurse Assistant. As an Administrative Assistant, I helped both the staff and congregation with a variety of needs. And I have had experience with customer service in the retail sector.
 
-#### I am self-motivated
+#### Self-motivated
 
 Prior to Makers I ran 2 businesses of my own part-time while homeschooling. In both my quilting and photography businesses, I taught myself everything from the technical skills to the marketing and business skills.  
 
 I was able to teach myself enough coding, with no prior knowledge, to allow me to get accepted into Makers Academy. I was able to finish 1 month of pre-course, and 3 months of intensive coursework all while maintaining crazy hours and a busy homelife.
 
-#### I am creative
+#### Creative
 
 I am a person who needs creativity in their life.  My interests generally gravitate in that route.  I have dabbled in many things like, Photography, quilting, crafts of all kinds, drawing, composing piano music, and pattern design.  
 
 When I started looking into web development I was very pleased to discover the creative side of tech.
 
 
-#### I am detail oriented
+#### Detail oriented
 
 Pretty much all of the creative interests I have pursued require a great attention to detail.  In particular, I have been known to spend hours (maybe even days) working with Photoshop on a single photo mostly at the pixel level. The time just flies by. The same could be said for my pattern design work.
 
@@ -111,11 +111,11 @@ Basic Adobe Illustrator for pattern design projects
 
 ## <a name="interests">Interests</a>
 
-[1]: http://www.github.com/nomi811
-[2]: https://www.linkedin.com/in/nomi-vos-097aa082
-[3]: https://www.behance.net/nvoswork1533
-[4]: https://www.facebook.com/nomi.vos
+[1]: (http://www.github.com/nomi811){:target="_blank"}
+[2]: (https://www.linkedin.com/in/nomi-vos-097aa082){:target="_blank"}
+[3]: (https://www.behance.net/nvoswork1533){:target="_blank"}
+[4]: (https://www.facebook.com/nomi.vos){:target="_blank"}
 
 ---
-|[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png){:target="_blank"}][1]|[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18654069/e7e21930-7ea3-11e6-89cf-37329de79b36.png)][2]|[![behance](https://cloud.githubusercontent.com/assets/17016297/18654062/e2e79c48-7ea3-11e6-9b5c-3da110b8a2dd.png)][3]|[![facebook](https://cloud.githubusercontent.com/assets/17016297/18654065/e42ed904-7ea3-11e6-94eb-ea5d66dfd191.png)][4]|
+|[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]|[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18654069/e7e21930-7ea3-11e6-89cf-37329de79b36.png)][2]|[![behance](https://cloud.githubusercontent.com/assets/17016297/18654062/e2e79c48-7ea3-11e6-9b5c-3da110b8a2dd.png)][3]|[![facebook](https://cloud.githubusercontent.com/assets/17016297/18654065/e42ed904-7ea3-11e6-94eb-ea5d66dfd191.png)][4]|
 ---
