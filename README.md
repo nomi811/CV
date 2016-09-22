@@ -56,8 +56,8 @@ My attention to detail and ability to be methodical will help me to create beaut
 
 | Project | Description | Technologies | Testing | Links |
 :---: | --- | :---: | :---: | :---:
-**Meal Planner** | Create recipes, and add them to a meal planner | Rails | <dl><dd>Rspec</dd><dd>Capybara</dd><dd>Shoulda</dd></dl> | [Heroku](https://meal-planner-ma.herokuapp.com/)
-**Bowling Challenge** | A bowling score tracker | JS | Sinatra | [Github](https://github.com/nomi811/bowling-challenge)
+**Meal Planner** | Create recipes, and add them to a meal planner | <dl><dd>Rails</dd><dd>HTML</dd><dd>CSS</dd> | <dl><dd>Rspec</dd><dd>Capybara</dd><dd>Shoulda</dd></dl> | [Heroku](https://meal-planner-ma.herokuapp.com/) [Github](https://github.com/joseck0510/meal_planner)
+**Bowling Challenge** | A bowling score tracker | JavaScript | Sinatra | [Github](https://github.com/nomi811/bowling-challenge)
 
 <br />
 ## <a name="reviews">Reviews</a>
