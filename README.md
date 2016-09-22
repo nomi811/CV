@@ -52,10 +52,12 @@ My attention to detail and ability to be methodical will help me to create beaut
 
 ## <a name="projects">Projects</a>
 
+
 | Project | Description | Technologies | Testing | Links |  
 | ----- | ----- | ----- | ----- |
 | **Meal Planner** | Create recipes, and add them to a meal planner | Rails | Rspec, Capybara, Shoulda | [Heroku](https://meal-planner-ma.herokuapp.com/) |  
 | **Bowling Challenge** | A bowling score tracker | JS | Sinatra | [Github](https://github.com/nomi811/bowling-challenge) |
+
 
 ## <a name="reviews">Reviews</a>
 
