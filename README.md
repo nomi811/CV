@@ -23,6 +23,7 @@ Starting from ground zero, I taught myself enough Ruby to join the ranks of the 
 
  I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *~way~* too many things to learn in one lifetime.
 
+<br />
 ## <a name="skills">Skills</a>
 
 #### Works well with other people
@@ -50,15 +51,15 @@ Pretty much all of the creative interests I have pursued require a great attenti
 
 My attention to detail and ability to be methodical will help me to create beautiful (hopefully bug-free) code.
 
+<br />
 ## <a name="projects">Projects</a>
-
 
 | Project | Description | Technologies | Testing | Links |
 :---: | --- | :---: | :---: | :---:
 **Meal Planner** | Create recipes, and add them to a meal planner | Rails | <dl><dd>Rspec</dd><dd>Capybara</dd><dd>Shoulda</dd></dl> | [Heroku](https://meal-planner-ma.herokuapp.com/)
 **Bowling Challenge** | A bowling score tracker | JS | Sinatra | [Github](https://github.com/nomi811/bowling-challenge)
 
-
+<br />
 ## <a name="reviews">Reviews</a>
 
 Here's what my final project team members had to say about me ...
@@ -68,7 +69,7 @@ Here's what my final project team members had to say about me ...
 
 > *"Curious. Not satisfied with it just working, needs to know why"* - [Zeeshan Ishtaiq](https://github.com/mzishtiaq)
 
-
+<br />
 ## <a name="education">Education</a>
 
 #### Makers Academy London, England (July 2016 to September 2016)
@@ -95,6 +96,7 @@ Photoshop for photography and retouching projects
 
 Adobe Illustrator for pattern design projects
 
+<br />
 ## <a name="experience">Experience</a>
 
 **Nomi Vos Photography** (April 2012 to June 2016)    
@@ -111,6 +113,7 @@ Adobe Illustrator for pattern design projects
 *Administrative Assistant*  
 **Gateway 2000** (January 1992 to November 1993)  
 *Computer Technical Service Representative*
+<br />
 <br />
 
 [1]: http://www.github.com/nomi811
