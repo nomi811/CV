@@ -13,7 +13,15 @@
 <br />
 
 
-I am located in the heart of the Midwest in the United States. I am a stay-at-home homeschool entrepreneur mom of 8 kids turned Junior Web Developer via [Makers Academy](http://www.makersacademy.com) in London, England.  Starting from ground zero, I taught myself enough Ruby to join the ranks of the 10% accepted into Makers Academy.  I can claim the distinction of never being late or absent for the 3:30am (US time) start time during the whole 3 months of the remote online bootcamp. I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *way* too many things to learn in one lifetime.
+I am located in the heart of the Midwest in the United States. I am a stay-at-home homeschool entrepreneur mom of 8 kids turned Junior Web Developer via Makers Academy in London, England.
+
+Starting from ground zero, I taught myself enough Ruby to join the ranks of the 10% accepted into Makers Academy.
+
+ *It's not called "Oxbridge meets the Marines, but for Developers" for nothing!* - [Makers Academy website](http://www.makersacademy.com)
+
+ I can claim the distinction of never being late or absent for the 3:30am (US time) start time during the whole 3 months of the remote online bootcamp.
+
+ I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *way* too many things to learn in one lifetime.
 
 ## <a name="skills">Skills</a>
 
@@ -47,9 +55,8 @@ My attention to detail and ability to be methodical will help me to create beaut
 | Project | Description | Technologies | Testing | Links |
 |-----|-----|-----|-----|
 | Menu Planner | descrip | tech | test | links |
-| Family Connect | descrip | tech | test | links |
-| MakersBnB | Our attempt at an AirBnB clone | Ruby, Sinatra | test | [Github](https://github.com/nomi811/MakersBnB) |
-| Bowling Challenge | A bowling score tracker | tech | test | [Github](https://github.com/nomi811/bowling-challenge) |
+| Family Connect | A social network for family and friends | RonR, JS,  | test | [Github](https://github.com/cyberplanner/social_event_reminder) |
+| Bowling Challenge | A bowling score tracker | JS | Sinatra | [Github](https://github.com/nomi811/bowling-challenge) |
 
 ## <a name="reviews">Reviews</a>
 
@@ -64,7 +71,13 @@ My attention to detail and ability to be methodical will help me to create beaut
 
 #### Makers Academy London, England (July 2016 to September 2016)
 
--
+Makers Academy is a fully immersive, full-time computer programming course in London, designed to turn people with no knowledge of web development into job-ready junior developers in just 12 weeks. We’re Europe’s #1 Developer Bootcamp.
+
+* Agile Technologies, TDD, OOP, SOLID, MVC, DRY, and Extreme Programming
+* Pair Programming and Team Projects with daily standups, and weekly code reviews.
+* Project-based curriculum
+* Contextualised learning
+* Focus on authenticity
 
 #### Tri-State Nursing (August 2014 to October 2014)
 Certified Nurse Assistant - State certification October 2014
@@ -104,5 +117,5 @@ Basic Adobe Illustrator for pattern design projects
 [4]: https://www.facebook.com/nomi.vos
 
 ---
-|[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]|[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18654069/e7e21930-7ea3-11e6-89cf-37329de79b36.png)][2]|[![behance](https://cloud.githubusercontent.com/assets/17016297/18654062/e2e79c48-7ea3-11e6-9b5c-3da110b8a2dd.png)][3]|[![facebook](https://cloud.githubusercontent.com/assets/17016297/18654065/e42ed904-7ea3-11e6-94eb-ea5d66dfd191.png)][4]|
+|[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png){:target="_blank"}][1]|[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18654069/e7e21930-7ea3-11e6-89cf-37329de79b36.png)][2]|[![behance](https://cloud.githubusercontent.com/assets/17016297/18654062/e2e79c48-7ea3-11e6-9b5c-3da110b8a2dd.png)][3]|[![facebook](https://cloud.githubusercontent.com/assets/17016297/18654065/e42ed904-7ea3-11e6-94eb-ea5d66dfd191.png)][4]|
 ---
