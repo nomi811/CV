@@ -123,7 +123,7 @@ Adobe Illustrator for pattern design projects
 [3]: https://www.facebook.com/nomi.vos
 
 ---
-[![github](https://cloud.githubusercontent.com/assets/17016297/18811356/7e6d1838-8272-11e6-9998-1a73ac3519e8.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18811357/7e7076ae-8272-11e6-8177-bcf4eae69960.png)][2][![facebook](https://cloud.githubusercontent.com/assets/17016297/18811355/7e6c8d64-8272-11e6-9718-5a0a9345dd54.png)][3]  
+[![github](https://cloud.githubusercontent.com/assets/17016297/18811493/c45b6986-8276-11e6-975a-cdd43479e7c5.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18811494/c45bd68c-8276-11e6-9a48-7ddb708fb524.png)][2][![facebook](https://cloud.githubusercontent.com/assets/17016297/18811492/c454b082-8276-11e6-9a10-336d6b1cdaf8.png)][3]  
 
 ---
 <br />
