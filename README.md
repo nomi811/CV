@@ -1,13 +1,13 @@
 # Nomi Vos
 
 <br />
-> *"If it scares you, it might be a good thing to try."* - Seth Godin
+<p align="center">*"If it scares you, it might be a good thing to try."* - Seth Godin </p>
 
 <br />
 
 ---
 
-#### [Skills](#skills) | [Projects](#projects) | [Reviews](#Reviews) | [Education](#education) | [Experience](#experience)
+#### <p align="center"> [Skills](#skills) | [Projects](#projects) | [Reviews](#Reviews) | [Education](#education) | [Experience](#experience) </p>
 
 ---  
 <br />
@@ -115,7 +115,6 @@ Adobe Illustrator for pattern design projects
 *Administrative Assistant*  
 **Gateway 2000** (January 1992 to November 1993)  
 *Computer Technical Service Representative*
-<br />
 <br />
 
 [1]: http://www.github.com/nomi811
