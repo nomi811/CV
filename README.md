@@ -1,13 +1,13 @@
 # Nomi Vos
 
 <br />
-<p align="center">*"If it scares you, it might be a good thing to try."* - Seth Godin </p>
+*"If it scares you, it might be a good thing to try."* - Seth Godin
 
 <br />
 
 ---
 
-#### <p align="center"> [Skills](#skills) | [Projects](#projects) | [Reviews](#Reviews) | [Education](#education) | [Experience](#experience) </p>
+#### [Skills](#skills) | [Projects](#projects) | [Reviews](#Reviews) | [Education](#education) | [Experience](#experience)
 
 ---  
 <br />
