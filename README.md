@@ -28,7 +28,7 @@ Starting from ground zero, I taught myself enough Ruby to join the ranks of the 
 
 #### Works well with other people
 
-I am comfortable working with other people and on teams.  During my time at Makers Academy I worked on a remote cohort with people from 10 different countries. It was a valuable experience getting to work with people from different cultures, backgrounds and native languages.  Every day was a new pair programming experience.  I also worked on 3 different team projects each with new team members. I was successfully able to adapt to the unique dynamics posed by each team or pair partner.  At times I stepped up and filled the mediator role of the team to smooth tensions created by conflicting opinions.
+I am comfortable working with other people and on teams.  During my time at Makers Academy I worked on a remote cohort with people from 10 different countries, who had different cultures, backgrounds and native languages.  Every day was a new pair programming experience.  I also worked on 3 different team projects each with new team members. I was successfully able to adapt to the unique dynamics posed by each team or pair partner.  At times I stepped up and filled the mediator role of the team to smooth tensions created by conflicting opinions.
 
 I also have experience working with people in variations of customer service roles.  I helped elderly people with their daily living needs as a Certified Nurse Assistant. As an Administrative Assistant, I helped both the staff and congregation with a variety of needs. Also,  I have had experience with customer service in the retail sector.
 
