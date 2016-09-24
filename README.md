@@ -57,17 +57,19 @@ My attention to detail and ability to be methodical will help me to create beaut
 | Project | Description | Technologies | Testing | Links |
 :---: | --- | :---: | :---: | :---:
 **Meal Planner** | Create recipes, and add them to a meal planner | <dl><dd>Rails</dd><dd>HTML</dd><dd>CSS</dd> | <dl><dd>Rspec</dd><dd>Capybara</dd><dd>Shoulda</dd></dl> | [Heroku](https://meal-planner-ma.herokuapp.com/) [Github](https://github.com/joseck0510/meal_planner)
-**Bowling Challenge** | A bowling score tracker | JavaScript | Sinatra | [Heroku](https://bowling-challenge-nomi.herokuapp.com/) [Github](https://github.com/nomi811/bowling-challenge)
+**Bowling Challenge** | A bowling score tracker | <dl><dd>JavaScript</dd><dd>HTML</dd><dd>CSS</dd> | Sinatra | [Heroku](https://bowling-challenge-nomi.herokuapp.com/) [Github](https://github.com/nomi811/bowling-challenge)
 
 <br />
 ## <a name="reviews">Reviews</a>
 
-Here's what my final project team members had to say about me ...
+Here's what some of my fellow cohort members had to say about me ...
 > *"Methodical with attention to detail"* - [Alex Saunders](https://github.com/acsauk)
 
 > *"Voice of calm and reason"* - [Jose Copovi-King](https://github.com/joseck0510)
 
 > *"Curious. Not satisfied with it just working, needs to know why"* - [Zeeshan Ishtaiq](https://github.com/mzishtiaq)
+
+> *"Nomi was the heart of our team. I really enjoyed working with her"* - [Sal Mohamed](https://github.com/cyberplanner)
 
 <br />
 ## <a name="education">Education</a>
@@ -118,9 +120,10 @@ Adobe Illustrator for pattern design projects
 
 [1]: http://www.github.com/nomi811
 [2]: https://www.linkedin.com/in/nomi-vos-097aa082
-[3]: https://www.behance.net/nvoswork1533
-[4]: https://www.facebook.com/nomi.vos
+[3]: https://www.facebook.com/nomi.vos
 
 ---
-|[![github](https://cloud.githubusercontent.com/assets/17016297/18654066/e5c135dc-7ea3-11e6-8cf6-6a8f628897bc.png)][1]|[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18654069/e7e21930-7ea3-11e6-89cf-37329de79b36.png)][2]|[![behance](https://cloud.githubusercontent.com/assets/17016297/18654062/e2e79c48-7ea3-11e6-9b5c-3da110b8a2dd.png)][3]|[![facebook](https://cloud.githubusercontent.com/assets/17016297/18654065/e42ed904-7ea3-11e6-94eb-ea5d66dfd191.png)][4]|
+[![github](https://cloud.githubusercontent.com/assets/17016297/18811356/7e6d1838-8272-11e6-9998-1a73ac3519e8.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18811357/7e7076ae-8272-11e6-8177-bcf4eae69960.png)][2][![facebook](https://cloud.githubusercontent.com/assets/17016297/18811355/7e6c8d64-8272-11e6-9718-5a0a9345dd54.png)][3]  
+
 ---
+<br />
