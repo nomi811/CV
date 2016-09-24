@@ -1,7 +1,7 @@
 # Nomi Vos
 
 <br />
-*"If it scares you, it might be a good thing to try."* - Seth Godin
+> *"If it scares you, it might be a good thing to try."* - Seth Godin
 
 <br />
 
@@ -21,7 +21,7 @@ Starting from ground zero, I taught myself enough Ruby to join the ranks of the 
 
  I can claim the distinction of never being late or absent for the 3:30am (US time) start time during the whole 3 months of the remote online bootcamp.
 
- I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *~way~* too many things to learn in one lifetime.
+ I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *~ way ~* too many things to learn in one lifetime.
 
 <br />
 ## <a name="skills">Skills</a>
