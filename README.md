@@ -19,7 +19,8 @@ Starting from ground zero, I taught myself enough Ruby to join the ranks of the 
 
  I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *~ way ~* too many things to learn in one lifetime.
 
- ## <a name="reviews">Reviews</a>
+
+## <a name="reviews">Reviews</a>
 
  Here's what some of my fellow cohort members had to say about me ...
  > *"Methodical with attention to detail"* - [Alex Saunders](https://github.com/acsauk)
