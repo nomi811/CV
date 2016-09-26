@@ -1,16 +1,12 @@
 # Nomi Vos
 
-<br />
 > *"If it scares you, it might be a good thing to try."* - Seth Godin
-
-<br />
 
 ---
 
-#### [Skills](#skills) | [Projects](#projects) | [Reviews](#Reviews) | [Education](#education) | [Experience](#experience)
+#### [Reviews](#Reviews) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
 
 ---  
-<br />
 
 
 I am located in the heart of the Midwest in the United States. I am a stay-at-home homeschool entrepreneur mom of 8 kids turned Junior Web Developer via Makers Academy in London, England.
@@ -23,10 +19,20 @@ Starting from ground zero, I taught myself enough Ruby to join the ranks of the 
 
  I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *~ way ~* too many things to learn in one lifetime.
 
-<br />
+ ## <a name="reviews">Reviews</a>
+
+ Here's what some of my fellow cohort members had to say about me ...
+ > *"Methodical with attention to detail"* - [Alex Saunders](https://github.com/acsauk)
+
+ > *"Voice of calm and reason"* - [Jose Copovi-King](https://github.com/joseck0510)
+
+ > *"Curious. Not satisfied with it just working, needs to know why"* - [Zeeshan Ishtaiq](https://github.com/mzishtiaq)
+
+ > *"Nomi was the heart of our team. I really enjoyed working with her"* - [Sal Mohamed](https://github.com/cyberplanner)
+
 ## <a name="skills">Skills</a>
 
-#### Works well with other people
+#### Work well with other people
 
 I am comfortable working with other people and on teams.  During my time at Makers Academy I worked on a remote cohort with people from 10 different countries, who had different cultures, backgrounds and native languages.  Every day was a new pair programming experience.  I also worked on 3 different team projects each with new team members. I was successfully able to adapt to the unique dynamics posed by each team or pair partner.  At times I stepped up and filled the mediator role of the team to smooth tensions created by conflicting opinions.
 
@@ -51,7 +57,6 @@ Pretty much all of the creative interests I have pursued require a great attenti
 
 My attention to detail and ability to be methodical will help me to create beautiful (hopefully bug-free) code.
 
-<br />
 ## <a name="projects">Projects</a>
 
 | Project | Description | Technologies | Testing | Links |
@@ -59,19 +64,7 @@ My attention to detail and ability to be methodical will help me to create beaut
 **Meal Planner** | Create recipes, and add them to a meal planner | <dl><dd>Rails</dd><dd>HTML</dd><dd>CSS</dd> | <dl><dd>Rspec</dd><dd>Capybara</dd><dd>Shoulda</dd></dl> | [Heroku](https://meal-planner-ma.herokuapp.com/) [Github](https://github.com/joseck0510/meal_planner)
 **Bowling Challenge** | A bowling score tracker | <dl><dd>JavaScript</dd><dd>HTML</dd><dd>CSS</dd> | Sinatra | [Heroku](https://bowling-challenge-nomi.herokuapp.com/) [Github](https://github.com/nomi811/bowling-challenge)
 
-<br />
-## <a name="reviews">Reviews</a>
 
-Here's what some of my fellow cohort members had to say about me ...
-> *"Methodical with attention to detail"* - [Alex Saunders](https://github.com/acsauk)
-
-> *"Voice of calm and reason"* - [Jose Copovi-King](https://github.com/joseck0510)
-
-> *"Curious. Not satisfied with it just working, needs to know why"* - [Zeeshan Ishtaiq](https://github.com/mzishtiaq)
-
-> *"Nomi was the heart of our team. I really enjoyed working with her"* - [Sal Mohamed](https://github.com/cyberplanner)
-
-<br />
 ## <a name="education">Education</a>
 
 #### Makers Academy London, England (July 2016 to September 2016)
@@ -98,7 +91,6 @@ Photoshop for photography and retouching projects
 
 Adobe Illustrator for pattern design projects
 
-<br />
 ## <a name="experience">Experience</a>
 
 **Nomi Vos Photography** (April 2012 to June 2016)    
