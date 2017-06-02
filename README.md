@@ -19,6 +19,7 @@ Starting from ground zero, I taught myself enough Ruby to join the ranks of the 
 
  I am a strong believer in lifelong learning, discovering new things, and being open to possibilities. I have a curious nature and am interested in *~ way ~* too many things to learn in one lifetime.
 
+ Check out my [Resume](https://s3.amazonaws.com/imagestoragenomi/nomi_resume.pdf)!
 
 ## <a name="reviews">Reviews</a>
 
