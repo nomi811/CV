@@ -4,7 +4,7 @@
 
 ---
 
-#### [Reviews](#Reviews) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
+#### [Reviews](#reviews) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
 
 ---  
 
