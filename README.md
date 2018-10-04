@@ -96,10 +96,8 @@ Photoshop for photography and retouching projects
 Adobe Illustrator for pattern design projects
 
 ## <a name="experience">Experience</a>
-
-**Nomi Vos Photography** (April 2012 to June 2016)    
-*Owner*  
-**Cottonwood Creek Quilting** (March 2001 to June 2016)   
+ 
+**Cottonwood Creek Quilting** (March 2001 to June 2018)   
 *Owner*  
 **Homeschool Teacher** (August 1996 to present)  
 *Teacher to my own children*  
