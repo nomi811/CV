@@ -42,9 +42,11 @@ I also have experience working with people in variations of customer service rol
 
 #### Self-motivated
 
-Prior to Makers I ran 2 businesses of my own part-time while homeschooling. In both my quilting and photography businesses, I taught myself everything from the technical skills to the marketing and business skills.  
+Prior to and during Makers I ran my quilting business part-time while homeschooling and taking care of my family. I've taught myself all I've needed to know to run this business successfully for many years. Meeting deadlines, and keeping customers happy has been a big part of that success.
 
 I was able to teach myself enough coding, with no prior knowledge, to allow me to get accepted into Makers Academy. I was able to finish 1 month of pre-course, and 3 months of intensive coursework all while maintaining crazy hours and a busy homelife.
+
+Teaching yourself new things is a sign of self-motivation and my life is filled with self-teaching examples such as photography, PhotoShop, drawing, cooking, homeschooling, and various types of crafts.
 
 #### Creative
 
@@ -91,13 +93,13 @@ Bachelor of Science in Business - Degree awarded
 Studied International business
 
 #### Other qualifications
-Photoshop for photography and retouching projects
+Photoshop for photography, retouching projects and the basics of wireframing
 
 Adobe Illustrator for pattern design projects
 
 ## <a name="experience">Experience</a>
  
-**Cottonwood Creek Quilting** (March 2001 to June 2018)   
+**Cottonwood Creek Quilting** (March 2001 to August 2018)   
 *Owner*  
 **Homeschool Teacher** (August 1996 to present)  
 *Teacher to my own children*  
