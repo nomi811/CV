@@ -57,7 +57,9 @@ When I started looking into web development I was very pleased to discover the c
 
 #### Detail oriented
 
-Pretty much all of the creative interests I have pursued require a great attention to detail.  In particular, I have been known to spend hours (maybe even days) working with Photoshop on a single photo mostly at the pixel level. The time just flies by. The same could be said for my pattern design work.
+Pretty much all of the creative interests I have pursued require a great attention to detail.  In particular, I have been known to spend hours (maybe even days) working with Photoshop on a single photo mostly at the pixel level. The time just flies by.
+
+When designing and coding the websites I've created I enjoy working to get them just right. If I don't know how to do something I will search the internet to help problem solve, trying out what I find. It can be a long process at times, but it is worth it.
 
 My attention to detail and ability to be methodical will help me to create beautiful (hopefully bug-free) code.
 
