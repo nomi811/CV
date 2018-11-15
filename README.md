@@ -46,7 +46,7 @@ Prior to and during Makers I ran my quilting business part-time while homeschool
 
 I was able to teach myself enough coding, with no prior knowledge, to allow me to get accepted into Makers Academy. I was able to finish 1 month of pre-course, and 3 months of intensive coursework all while maintaining crazy hours and a busy homelife.
 
-Teaching yourself new things is a sign of self-motivation and my life is filled with self-teaching examples such as photography, PhotoShop, drawing, cooking, homeschooling, and various types of crafts.
+Teaching yourself new things is a sign of self-motivation and my life is filled with self-teaching examples such as photography, Photoshop, drawing, cooking, homeschooling, and various types of crafts.
 
 #### Creative
 
