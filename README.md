@@ -9,7 +9,7 @@
 ---  
 
 
-I am located in the heart of the Midwest in the United States. I am a stay-at-home homeschool entrepreneur mom of 8 kids turned Junior Web Developer via Makers Academy in London, England.
+I am located in the heart of the Midwest in the United States. I am a stay-at-home homeschool entrepreneur mom of 8 kids turned Web Developer via Makers Academy in London, England.
 
 Starting from ground zero, I taught myself enough Ruby to join the ranks of the 10% accepted into Makers Academy.
 
